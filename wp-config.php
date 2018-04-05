@@ -12,7 +12,7 @@
  * * Secret keys
  * * Database table prefix
  * * ABSPATH
- * Admin_Atd
+ * Admin_Atd asd
  * @link https://codex.wordpress.org/Editing_wp-config.php
  *
  * @package WordPress
